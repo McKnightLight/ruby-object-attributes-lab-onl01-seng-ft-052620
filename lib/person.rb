@@ -1,3 +1,4 @@
 class Person
-  attr_accessor 
+  attr_accessor :name 
+  attr_accessor :age 
 end
